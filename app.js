@@ -46,4 +46,23 @@ cross.addEventListener('click', function () {
     headerbar.style.right = '-100%';
 });
 
+const apiUrl = 'rapidapi.com';
+const apiKey = 'e8d58956b6msh3e29a0ae2f89138p1'; 
+
+// Make a GET request to the API
+fetch(`${rapidapi.com}?apikey=${e8d58956b6msh3e29a0ae2f89138p1}`)
+  .then(response => {
+    if (!response.ok) {
+      throw new Error(`HTTP error! Status: ${response.status}`);
+    }
+    return response.json();
+  })
+  .then(data => {
+    // Handle the data, update HTML, etc.
+    console.log(data);
+  })
+  .catch(error => {
+    console.error('Error:', error);
+  });
+
 
