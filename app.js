@@ -75,3 +75,16 @@ fetch(`${rapidapi.com}?apikey=${e8d58956b6msh3e29a0ae2f89138p1}`)
   // Call the fetchData function when your page loads or at a specific event
   fetchData();
 
+  function fetchData() {
+    // Replace 'path/to/db.json' with the actual path to your db.json file
+    fetch('db.json')
+        .then(response => response.json())
+        .then(data => {
+            // Handle the data here
+            console.log('Data from db.json:', data);
+        })
+        .catch(error => {
+            // Handle errors here
+            console.error('Error fetching data:', error);
+        });
+}
