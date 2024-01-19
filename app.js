@@ -1,13 +1,18 @@
-const searchicon1 = document.querySelector('#searchicon1');
 
-const srchicon1 = document.querySelector('#srchicon1');
+// Get the search input and search icon elements
+const searchInput = document.getElementById('searchInput');
+const searchIcon = document.getElementById('searchIcon');
 
-const search1 = document.querySelector('#searchinput1');
+// Add an event listener to the search icon for when it is clicked
+searchIcon.addEventListener('click', function () {
+    // Get the value from the search input
+    const searchTerm = searchInput.value;
 
-searchicon1.addEventListener('click',function(){
-    search1.style.display = 'flex';
-    searchicon1.style.display = 'none';
-})
+    // You can now use the searchTerm for further processing,
+    // for example, you might want to perform a search operation.
+    // For now, let's just log the search term to the console.
+    console.log('Search Term:', searchTerm);
+});
 
  
 
