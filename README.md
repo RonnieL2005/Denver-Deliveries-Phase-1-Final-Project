@@ -47,7 +47,7 @@ Make sure your server project is properly configured and ready for deployment. T
 If you don't already have a GitHub repository for your project, create one. You can do this directly on the GitHub website or by using the following commands in your terminal:
 
 bash
-Copy code 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Copy code 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
 git init
 git add .
 git commit -m "Initial commit"
