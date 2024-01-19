@@ -65,4 +65,13 @@ fetch(`${rapidapi.com}?apikey=${e8d58956b6msh3e29a0ae2f89138p1}`)
     console.error('Error:', error);
   });
 
+  function displayDataOnPage(data) {
+    // Implement logic to update your HTML/CSS with the retrieved data
+    // For example, update a div or list with the fetched data
+    const resultContainer = document.getElementById('result-container');
+    resultContainer.innerHTML = JSON.stringify(data, null, 2);
+  }
+  
+  // Call the fetchData function when your page loads or at a specific event
+  fetchData();
 

@@ -1,5 +1,5 @@
 # Denver Deliveries
-
+ author: Ronnie Langat
 Denver Deliveries is a food delivery app that brings delicious meals straight to your doorstep.
 
 ## Table of Contents
