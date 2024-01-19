@@ -1,0 +1,186 @@
+{
+    "foodItems": [
+      {
+        "id": 1,
+        "name": "Pizza",
+        "description": "Delicious pizza with various toppings.",
+        "price": 12.99
+      },
+      {
+        "id": 2,
+        "name": "Burger",
+        "description": "Classic beef burger with cheese and veggies.",
+        "price": 8.99
+      },
+      {
+        "id": 3,
+        "name": "Pasta",
+        "description": "Spaghetti with rich tomato sauce.",
+        "price": 10.49
+      },
+      {
+        "id": 4,
+        "name": "Salad",
+        "description": "Fresh green salad with mixed vegetables.",
+        "price": 6.99
+      },
+      {
+        "id": 5,
+        "name": "Sushi",
+        "description": "Assorted sushi rolls with soy sauce.",
+        "price": 15.99
+      },
+      {
+        "id": 6,
+        "name": "Steak",
+        "description": "Juicy grilled steak with mashed potatoes.",
+        "price": 18.99
+      },
+      {
+        "id": 7,
+        "name": "Smoothie",
+        "description": "Refreshing fruit smoothie with mixed berries.",
+        "price": 4.99
+      },
+      {
+        "id": 8,
+        "name": "Tacos",
+        "description": "Authentic Mexican tacos with salsa.",
+        "price": 9.99
+      },
+      {
+        "id": 9,
+        "name": "Chicken Curry",
+        "description": "Spicy chicken curry with basmati rice.",
+        "price": 13.49
+      },
+      {
+        "id": 10,
+        "name": "Fish and Chips",
+        "description": "Classic fish and chips with tartar sauce.",
+        "price": 11.99
+      },
+      {
+        "id": 11,
+        "name": "Caesar Salad",
+        "description": "Caesar salad with grilled chicken and croutons.",
+        "price": 7.99
+      },
+      {
+        "id": 12,
+        "name": "Lasagna",
+        "description": "Homemade lasagna with layers of pasta and cheese.",
+        "price": 14.99
+      },
+      {
+        "id": 13,
+        "name": "Fried Rice",
+        "description": "Vegetable fried rice with soy sauce.",
+        "price": 8.49
+      },
+      {
+        "id": 14,
+        "name": "Ice Cream Sundae",
+        "description": "Deluxe ice cream sundae with toppings.",
+        "price": 6.99
+      },
+      {
+        "id": 15,
+        "name": "Chicken Wings",
+        "description": "Spicy buffalo chicken wings with dip.",
+        "price": 10.99
+      },
+      {
+        "id": 16,
+        "name": "Veggie Wrap",
+        "description": "Vegetarian wrap with hummus and veggies.",
+        "price": 7.49
+      },
+      {
+        "id": 17,
+        "name": "Cheese Quesadilla",
+        "description": "Cheesy quesadilla with salsa.",
+        "price": 5.99
+      },
+      {
+        "id": 18,
+        "name": "Clam Chowder",
+        "description": "Creamy clam chowder soup.",
+        "price": 9.49
+      },
+      {
+        "id": 19,
+        "name": "BBQ Ribs",
+        "description": "Smoky BBQ ribs with coleslaw.",
+        "price": 16.99
+      },
+      {
+        "id": 20,
+        "name": "Cupcake Assortment",
+        "description": "Assorted cupcakes with frosting.",
+        "price": 3.99
+      },
+      {
+        "id": 21,
+        "name": "Vegetable Stir Fry",
+        "description": "Vegetable stir fry with tofu.",
+        "price": 12.49
+      },
+      {
+        "id": 22,
+        "name": "Margarita Pizza",
+        "description": "Classic margarita pizza with fresh tomatoes.",
+        "price": 11.99
+      },
+      {
+        "id": 23,
+        "name": "Chocolate Fondue",
+        "description": "Decadent chocolate fondue with assorted dippings.",
+        "price": 14.49
+      },
+      {
+        "id": 24,
+        "name": "Caprese Salad",
+        "description": "Caprese salad with fresh mozzarella and tomatoes.",
+        "price": 8.99
+      },
+      {
+        "id": 25,
+        "name": "Shrimp Scampi",
+        "description": "Garlic butter shrimp scampi with linguine.",
+        "price": 15.49
+      },
+      {
+        "id": 26,
+        "name": "Greek Gyro",
+        "description": "Greek gyro with tzatziki sauce.",
+        "price": 10.99
+      },
+      {
+        "id": 27,
+        "name": "Cobb Salad",
+        "description": "Cobb salad with grilled chicken and avocado.",
+        "price": 9.99
+      },
+      {
+        "id": 28,
+        "name": "Chicken Teriyaki",
+        "description": "Chicken teriyaki with steamed rice.",
+        "price": 13.99
+      },
+      {
+        "id": 29,
+        "name": "Pumpkin Pie",
+        "description": "Homemade pumpkin pie with whipped cream.",
+        "price": 7.49
+      },
+      {
+        "id": 30,
+        "name": "Pho Soup",
+        "description": "Vietnamese pho soup with noodles and beef.",
+        "price": 11.49
+      }
+    ]
+  }
+  
+  
